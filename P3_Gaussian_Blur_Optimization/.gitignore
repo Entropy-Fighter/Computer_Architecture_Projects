@@ -1,0 +1,11 @@
+/.idea
+/gbfloat_base
+/gbfloat_fast
+/test_accuracy
+/test/gbfloat_fast
+/test/gbfloat_base
+/test/test.exe
+/test/test_accuracy
+/test/test_base.jpg
+/test/test_fast.jpg
+/test/test.c

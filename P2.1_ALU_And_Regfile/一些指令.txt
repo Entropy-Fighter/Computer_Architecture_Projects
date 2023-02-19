@@ -1,0 +1,5 @@
+运行logisim
+java -jar logisim-evolution.jar -noupdates
+
+
+./test.sh
